@@ -1,0 +1,25 @@
+1649813173177	Delete element
+1649821791650	Delete element
+1649830349043	Rename package 'com.hansol.schedule.domain'
+1649834035975	Rename package 'com.hansol.schedule.Exception'
+1649834135385	Move compilation units
+1649834141165	Delete element
+1649836633080	Delete element
+1649839238081	Copy package
+1649839279305	Delete element
+1649839323075	Copy compilation units
+1649839337922	Delete element
+1649899463911	Delete element
+1649909463277	Delete element
+1649910682473	Rename package 'com.hansol.schedule.exception'
+1649910712126	Move compilation unit
+1649910749244	Rename type 'ApiResponseCode'
+1649910783951	Rename type 'ApiResponseMsg'
+1649910903877	Delete element
+1649911033987	Move compilation unit
+1649911047392	Rename type 'ApiException'
+1649912379833	Rename package 'com.hansol.schedule.model'
+1649916192677	Rename package 'com.hansol.schedule.quartzUtils'
+1650002649355	Move compilation units
+1650010792442	Delete element
+1650010851669	Move compilation unit

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;CronJob.java&apos; to &apos;scheduler-api-project/src/main/java/com.hansol.schedule.jobClass&apos;&#x0D;&#x0A;- Original project: &apos;scheduler-api-project&apos;&#x0D;&#x0A;- Destination element: &apos;scheduler-api-project/src/main/java/com.hansol.schedule.jobClass&apos;&#x0D;&#x0A;- Original element: &apos;com.hansol.schedule.jobClass.CronJob.java&apos;" description="Copy compilation unit" destination="/src\/main\/java=/gradle_scope=/main=/=/gradle_used_by_scope=/main,test=/&lt;com.hansol.schedule.jobClass" element1="/src\/main\/java=/gradle_scope=/main=/=/gradle_used_by_scope=/main,test=/&lt;com.hansol.schedule.jobClass{CronJob.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1651567498803" units="1" version="1.0"/>
+</session>
